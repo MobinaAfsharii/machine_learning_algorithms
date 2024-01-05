@@ -1,7 +1,7 @@
 # Linear Regression
 
 ### Overview
-This Python code provides a simple implementation of linear regression using the method of least squares. Linear regression is a supervised learning algorithm used for predicting a continuous target variable based on one or more independent features.
+This [\(linear_regression.py\)](./linear_regression.py) Python code provides a simple implementation of linear regression using the method of least squares. Linear regression is a supervised learning algorithm used for predicting a continuous target variable based on one or more independent features.
 
 ### Class: `LinearRegression`
 
