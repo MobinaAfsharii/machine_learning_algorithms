@@ -1,3 +1,5 @@
+[_Persian version_](./README_fa.md)
+
 # Linear Regression
 
 ### Overview
